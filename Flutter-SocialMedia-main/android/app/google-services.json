@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673864641772",
+    "project_id": "cs310-projegm",
+    "storage_bucket": "cs310-projegm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673864641772:android:05f784f0bbb3c242fec9c9",
+        "android_client_info": {
+          "package_name": "edu.sabanciuniv.cs310_projegm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673864641772-aul2gmn84ifpk73nfomt9pu31p9ukacd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIK-yLKhsft_mYkNCboTkkYmFF9V12jfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673864641772-aul2gmn84ifpk73nfomt9pu31p9ukacd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
